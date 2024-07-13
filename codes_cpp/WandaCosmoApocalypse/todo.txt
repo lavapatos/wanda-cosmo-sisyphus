@@ -1,0 +1,1 @@
+1 - Generalizar para Grid de nxn, de momento está más que ready para 64x64
